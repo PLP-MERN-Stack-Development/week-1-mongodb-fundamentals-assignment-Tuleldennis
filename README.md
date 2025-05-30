@@ -61,7 +61,15 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 ## Install dependenciea
 npm install mongodb
 
-Configure MongoDB connection
+## Configure MongoDB connection
 
-Insert sample data using
+## Insert sample data using
 node insert_books.js
+
+## screenshots
+## Screenshots
+
+![Screenshot 1](images/screenshot%201.png)  
+![Screenshot 2](images/screenshot%202.png)  
+![Screenshot 3](images/screenshot%203.png)  
+![Screenshot 4](images/screenshot%204.png)  
