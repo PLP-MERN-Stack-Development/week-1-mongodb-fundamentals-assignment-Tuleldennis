@@ -45,3 +45,23 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
 - [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+
+# PLP Bookstore MongoDB Project
+
+## Setup Instructions
+
+1. **Install Node.js and npm**  
+   Make sure you have [Node.js](https://nodejs.org/) installed (version 14+ recommended).
+
+2. **Clone the repository**  
+   ```bash
+   git clone <your-repo-url>
+   cd <your-repo-folder>
+
+## Install dependenciea
+npm install mongodb
+
+Configure MongoDB connection
+
+Insert sample data using
+node insert_books.js
